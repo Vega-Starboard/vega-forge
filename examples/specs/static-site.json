@@ -1,0 +1,9 @@
+{
+  "name": "demo-site",
+  "type": "static-site",
+  "description": "Static landing page starter",
+  "features": [
+    "responsive CSS",
+    "local assets"
+  ]
+}

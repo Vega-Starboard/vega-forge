@@ -1,0 +1,9 @@
+{
+  "name": "demo-cli",
+  "type": "python-cli",
+  "description": "Python CLI starter",
+  "features": [
+    "argparse",
+    "verify script"
+  ]
+}

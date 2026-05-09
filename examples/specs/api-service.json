@@ -1,0 +1,9 @@
+{
+  "name": "demo-api",
+  "type": "api-service",
+  "description": "FastAPI-style API starter",
+  "features": [
+    "health route",
+    "dependency notes"
+  ]
+}
