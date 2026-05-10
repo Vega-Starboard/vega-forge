@@ -1,7 +1,9 @@
 # Vega Forge
 
 [![Release](https://img.shields.io/github/v/release/Vega-Starboard/vega-forge?label=release)](https://github.com/Vega-Starboard/vega-forge/releases/tag/v0.1.0)
+[![CI](https://github.com/Vega-Starboard/vega-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/Vega-Starboard/vega-forge/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 
 Vega Forge generates starter projects from structured JSON specs. The MVP is deterministic, local-only, and requires no model call.
 
